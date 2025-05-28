@@ -1,6 +1,6 @@
 {
   "cpp snippets": {
-    "prefix": "boil",
+    "prefix": "boicpp",
     "body": [
       "#include<iostream>",
       "using namespace std;",
