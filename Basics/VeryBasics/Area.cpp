@@ -6,6 +6,6 @@ cout << "Length : ";
 cin >> l;
 cout << "Breadth : ";
 cin >> b;
-cout << "area : " << l*b;
+cout << "area : " << l*b << endl;
     return 0;
 }
